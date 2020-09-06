@@ -1,8 +1,19 @@
+#main {
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 #hello {
     color: white;
     background-color: darkblue;
-    font-size: 21px;
-    text-align: center;
     width: 500px;
+    margin: 0 auto;
+}
+
+.message {
+    padding: 20px 0;
+    background-color: lightgrey;
+    width: 600px;
     margin: 0 auto;
 }
